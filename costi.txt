@@ -1,0 +1,9 @@
+
+<html>
+<head>
+</head>
+<body bgcolor="LIGHTBLUE">
+<p align="center"><font color="GREEN" size="7"><b>L'HOTEL</b></font></p>
+<p><font color="#822222" size="5">L'hotel in cui pernotteremo è "<a href="http://www.hotellaprimula.it/><font color="#DAA520 sixe="5">LA PRIMULA</font></a><font color="#822222" size="5">"</font> <font color="#822222" size="5"> a </font> <a href="https://www.google.it/maps/place/42%C2%B048'09.8%22N+10%C2%B011'46.7%22E/@42.802718,10.1941263,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0"><font size="5" color="#191970">MARCIANA MARINA</font></a>
+</body>
+</html>
